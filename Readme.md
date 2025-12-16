@@ -22,6 +22,15 @@ Cambio de remoto para hacer push a mi repositorio:![img_2.png](img_2.png)
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
 
+`Respuesta a la pregunta del apartado 1:`
+
+- El paso fundamental al clonar un repositorio ajeno para poder subir nuestros propios commits es tener permisos de escritura sobre el repositorio.
+
+- Como el repositorio original no nos permite hacer push, en la terminal cambié el remoto al repositorio propio usando:
+
+    git remote set-url origin https://github.com/4frnco/ExamenControlVersiones-FrancoNaraza.git
+
+
 ### Apartado 2
 
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
