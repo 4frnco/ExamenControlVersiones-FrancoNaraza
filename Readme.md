@@ -56,6 +56,14 @@ Para que el código modificado en GitHub, llegue a mi rama principal local lo qu
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
 
+
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+`Respuestas a la pregunta e imagenes del Apartado 3:`
+
+Este es el cambio nuevo desde la web:![img_5.png](img_5.png)
+
+- Después de realizar estos cambios, se utilizó el comando git pull, que descarga los cambios del repositorio remoto y los fusiona automáticamente en la rama principal local.
+
+Al usar el pull el cambio realizado en GitHub llegó a la rama main local en un solo paso:![img_6.png](img_6.png)
